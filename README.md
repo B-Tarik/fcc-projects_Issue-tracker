@@ -5,6 +5,7 @@ it's a freecodecamp project in the "Information Security and Quality Assurance P
 
 bonus*: 
 - Front-end using React
+- Validation using Joi
 
 ### Tools used
 
