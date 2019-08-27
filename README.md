@@ -1,7 +1,7 @@
 # Issue Tracker
 ### About the project
 
-it's a freecodecamp project in the "Information Security and Quality Assurance Projects" module, you have to build a back-end that will receive a measuring unit and return a json response containing the converted unit.
+it's a freecodecamp project in the "Information Security and Quality Assurance Projects" module, you have to build a back-end that can store and manage issues sent by users.
 
 bonus*: 
 - Front-end using React
@@ -11,6 +11,8 @@ bonus*:
 **Front-end:** React
 
 **Back-end:** Express, Joi, Helmet
+
+**Database:** Mongodb
 
 **Test:** Mocha, Chai
 
