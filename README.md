@@ -4,7 +4,7 @@
 it's a freecodecamp project in the "Information Security and Quality Assurance Projects" module, you have to build a back-end that can store and manage issues sent by users.
 
 bonus*: 
-- Front-end using React
+- Front-end using React, Sass, Responsive Design
 - Validation using Joi
 
 ### Tools used
